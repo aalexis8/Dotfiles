@@ -1,2 +1,4 @@
 # dotfiles
-why would need to make other OS versions of this.
+
+Learning blah with
+putting it to action. Getting past setup, have been setting up computers for a while now, time to move on.
