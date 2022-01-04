@@ -5,13 +5,20 @@
 - clean: ['~']
 
 - link:
-#     ~/.vim: vim
-     ~/.zshrc: 
-     ~/.gitconfig: 
+#    ~/.tmux.conf: tmux.conf
+    ~/.gitconfig:
+    ~/.zshrc:
 
 - create:
-    - ~/Work
+    - ~/downloads
     - ~/.vim/undo-history
 
-      #- shell:
-  #   - [git submodule update --init --recursive, Installing submodules]
+- shell:
+#  - [git submodule update --init --recursive, Installing submodules]
+  - command: ./test.zsh
+    stdout: true
+    stderr: true
+
+#  - echo "Message from the shell section: Hello"
+#  - sleep 5
+#  - ./test.zsh
