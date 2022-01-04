@@ -11,3 +11,4 @@ I am learning my dots with []()
 - Finder Show Path Bar
 - .zshrc
 - Git (config and SSH)
+- Homebrew branch added
