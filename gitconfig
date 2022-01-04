@@ -1,0 +1,7 @@
+[user]
+	name = Alex Alexis
+	email = 1334629+aalexis8@users.noreply.github.com
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main
